@@ -2,7 +2,7 @@
 <p align="center">Frameworks & Languages i am currently learning</p>
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height='42px](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)'/>
+  <img src="[ttps://shields.io/badge/-Rust-3776AB?style=flat&logo=rust" height='42px]'/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height='42px'>
 </p>
 
